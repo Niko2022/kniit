@@ -1,4 +1,4 @@
-package org.kniit.labs1.task1;
+package org.kniit.lab1.task1;
 
 public class Main {
     static void main(String[] args) {
