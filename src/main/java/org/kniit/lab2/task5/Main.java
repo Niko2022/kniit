@@ -17,6 +17,7 @@ public class Main {
 
         folder2.add(file3);
         folder2.add(folder1); // Вложенная папка
+        folder1.remove(file1);
 
         // Выводим структуру файловой системы
         folder2.display("");
